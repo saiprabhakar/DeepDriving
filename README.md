@@ -1,4 +1,4 @@
-# DeepDriving
+# Deep Driving
 This code is a modified version Princeton's Deep Driving http://deepdriving.cs.princeton.edu/, which was published to back the 
 results claimed in http://deepdriving.cs.princeton.edu/paper.pdf.
 
