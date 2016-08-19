@@ -1,6 +1,8 @@
 # Deep Driving
-This code is a modified version Princeton's Deep Driving http://deepdriving.cs.princeton.edu/, which was published to back the 
-results claimed in http://deepdriving.cs.princeton.edu/paper.pdf.
+
+Autonomous driving using direct perception in TORCS using Caffe for deep learning.
+
+This code is a modified version Princeton's Deep Driving http://deepdriving.cs.princeton.edu/, which was published to back the results claimed in http://deepdriving.cs.princeton.edu/paper.pdf.
 
 The project report for the code in this repo can be found in report.pdf.
 
