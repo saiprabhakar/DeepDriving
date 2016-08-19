@@ -1,6 +1,6 @@
 # Deep Driving
 
-Autonomous driving using deep learning (deep learning) in TORCS-- open source car racing game.
+Autonomous driving using deep learning (Caffe) in TORCS-- open source car racing game.
 
 This code is a modified version Princeton's Deep Driving http://deepdriving.cs.princeton.edu/, which was published to back the results claimed in http://deepdriving.cs.princeton.edu/paper.pdf.
 
