@@ -4,7 +4,7 @@ Autonomous driving using deep learning (Caffe) in TORCS-- open source car racing
 
 This code is a modified version Princeton's Deep Driving http://deepdriving.cs.princeton.edu/, which was published to back the results claimed in http://deepdriving.cs.princeton.edu/paper.pdf.
 
-The project report for the code in this repo can be found in report.pdf.
+The project report for the code in this repo can be found in saiprabhakar.github.io/projects.html.
 
 Results for the original implementation:
 
